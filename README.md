@@ -1,2 +1,2 @@
-# maven-quickstart
-Quick start with maven
+# maven-quick-start-course
+Content from Maven Quick Start course by Jason Taylor
